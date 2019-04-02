@@ -11,10 +11,6 @@ You'll need to install:
 
 Node.js 6.0.0 or newer
 
-Python 2.7 for node-opus or python 3 for opusscript
-
-node-opus is preferable
-
 ### Installing
 
 #### Install Dependencies
@@ -33,7 +29,7 @@ Several node packages:
  npm install ytdl-core
 ```
 
-##Deployment
+## Deployment
 
 1. Run the start.bat file and follow the prompt
 
